@@ -38,7 +38,7 @@ python visual.py
 Our project is inspired by and builds upon the following repositories:
 
 * [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN)
-* [Accurate & Fluent Medical X-ray Reports (Xia et al.)](https://github.com/jingjingliang/accurate-xray-report)
+* [Accurate & Fluent Medical X-ray Reports (Xia et al.)](https://github.com/ginobilinie/xray_report_generation)
 
 We sincerely thank the authors for sharing their excellent work.
 
@@ -49,11 +49,13 @@ We sincerely thank the authors for sharing their excellent work.
 If you find this project helpful, please consider citing:
 
 ```bibtex
-@article{yourpaper2024,
-  title={EARnet: Radiographic Reports Generation via Retrieval-Enhanced Cross-Modal Fusion},
-  author={Your Name and Collaborators},
-  journal={...},
-  year={2024}
+@inproceedings{hou2024radiographic,
+  title={Radiographic Reports Generation via Retrieval Enhanced Cross-modal Fusion},
+  author={Hou, Xia and Luo, Yifan and Song, Wenfeng and Guo, Yuting and You, Wenzhe and Li, Shuai},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={2032--2039},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
