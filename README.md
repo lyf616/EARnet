@@ -24,7 +24,7 @@ We evaluate EARnet on multiple datasets (IU-Xray, MIMIC-CXR, and a private denta
 python train_full.py 
 ```
 
-### Result
+### Quantitative Result
 
 ```bash
 python visual.py 
@@ -38,7 +38,7 @@ python visual.py
 Our project is inspired by and builds upon the following repositories:
 
 * [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN)
-* [Accurate & Fluent Medical X-ray Reports (Xia et al.)](https://github.com/ginobilinie/xray_report_generation)
+* [Accurate & Fluent Medical X-ray Reports ](https://github.com/ginobilinie/xray_report_generation)
 
 We sincerely thank the authors for sharing their excellent work.
 
